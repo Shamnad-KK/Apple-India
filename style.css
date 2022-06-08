@@ -1,0 +1,141 @@
+.fontS{
+    font-size: 0.8rem;
+}
+.navBG{
+    background-color: black;
+}
+.nav-item{
+    color: black;
+}
+.navbar-nav {
+flex: 0.78;
+margin: auto !important;
+display: flex;
+justify-content: space-around;
+}
+.fstWhiteDiv{
+    background-color: white;
+    font-size: 0.93rem;
+    font-weight: 400;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #1d1d1f;
+    letter-spacing: -0.032rem;
+    
+    
+}
+
+.hashSign{
+    font-size: small;
+}
+.hashSign:hover{
+    color: blue;
+    cursor: pointer;
+}
+.learnMoreText{
+    text-decoration: none;
+}
+.learnMoreText:hover{
+    text-decoration: underline;
+}
+.fstDiv{
+    padding: 7rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.watchOnlineText{
+    padding-bottom: 1rem;
+    color: #c6e1e6;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    letter-spacing: .15em;
+    text-align: center;
+    font-weight: 400;
+    
+}
+.scndDiv{
+    background-color: white;
+}
+
+.MacBookAir{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+}
+.AvailableNextMonth{
+    color: #87868C;
+}
+.LearnmoreBtn{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.mb-7{
+    margin-bottom: 8rem;
+}
+.mb-11{
+    margin-bottom: 11rem;
+}
+.mt-7{
+    margin-top: 8rem;
+}
+
+.thirdDiv{
+    background-color: #F5F5F7;
+}
+
+.fourthDiv{
+    background-color: black;
+    color: white;
+}
+
+.LearnmoreBtnBlack{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: white;
+    border-color: white;
+}
+.LearnmoreBtnBlack:hover{
+    color: black;
+    background-color: white;
+}
+
+.footerDiv{
+    background-color: #1D1D1F;
+    font-size: small;
+}
+
+.listHeading{
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.footerAtags{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.775);
+}
+.footerAtags:hover{
+    text-decoration: underline;
+    color: white;
+}
+.Findaretailer{
+    text-decoration: none;
+}
+.Findaretailer:hover{
+    text-decoration: underline;
+}
+.verticalSmallDivider{
+    color: rgba(255, 255, 255, 0.296);
+    font-size: large;
+}
+
+.bagIcon{
+    color: white;
+    fill: white;
+}
+
+.btn-dark{
+    border-color: #C6E2E6;
+}
+.btn-dark:hover{
+    background-color: #C6E2E6;
+    color: black;
+}
+
